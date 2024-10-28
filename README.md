@@ -1,4 +1,12 @@
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdur-RahmaanJ&show_icons=true&theme=tokyonight">
+</div>
+
+<br>
+
 Hi, i invite you to a virtual coffee chat ☕ to talk about:
+
+<br>
 
 - OpenSource :: [273K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
 - Database :: wrote [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) book
