@@ -33,7 +33,7 @@ If you want to get started with OpenSource, you can view these PRs to get an ide
 
 <table style="border: none; !important">
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/107184?s=30&v=4" width="30"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/107184?s=30&v=4" width="100"></td>
     <td><a href="https://github.com/linuxmint/cinnamon/pull/7888">linuxmint/cinammon</a></td>
     <td><img src="https://avatars.githubusercontent.com/u/5430905?s=30&v=4" width="30"></td>
     <td><a href="https://github.com/rust-lang/rust/commit/2fe58b9a6a8fca04b1c2493389b186778e05e68a">ruslang/rust</a></td>
