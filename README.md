@@ -88,3 +88,7 @@ If you want to get started with OpenSource, you can view these PRs to get an ide
     <td><a href="https://github.com/pallets-eco/flask-principal/commits?author=Abdur-RahmaanJ">pallets-eco/flask-principal</a></td>
   </tr>
 </table>
+
+---
+
+[![since 29 oct 24](https://visitcount.itsvg.in/api?id=abdur-rahmaanj&label=Profile%20Views&color=3&icon=3&pretty=false)](https://visitcount.itsvg.in)
