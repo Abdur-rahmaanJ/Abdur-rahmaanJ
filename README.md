@@ -9,8 +9,8 @@ Hi, i invite you to a virtual coffee chat ☕ to talk about:
 
 <br>
 
-- OpenSource :: [273K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
-- Database :: wrote [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) book
+- OpenSource :: If you want mentorship!
+- Database :: SQLite or any
 - Compilers :: area of interest
 
 [ [schedule](https://calendly.com/abdur-rahmaanj/30min) ]
@@ -27,10 +27,7 @@ Hi, i invite you to a virtual coffee chat ☕ to talk about:
   
 </div>
 
-## Caring for the ecosystem
-
-If you want to get started with OpenSource, you can view these PRs to get an idea.
-
+## Contributions
 
 <table style="border: none; !important">
   <tr>
@@ -88,6 +85,11 @@ If you want to get started with OpenSource, you can view these PRs to get an ide
     <td><a href="https://github.com/pallets-eco/flask-principal/commits?author=Abdur-RahmaanJ">pallets-eco/flask-principal</a></td>
   </tr>
 </table>
+
+### Random
+
+- Packages have [273K downloads](https://www.compileralchemy.com/#open-source) according to Pepy.tech
+- Wrote [SQLite Internals](https://www.compileralchemy.com/books/sqlite-internals/) book
 
 ---
 
