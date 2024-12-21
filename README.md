@@ -83,6 +83,8 @@ Hi, i invite you to a virtual coffee chat ☕ to talk about:
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/16748505?s=50&v=4" width="50"></td>
     <td><a href="https://github.com/pallets-eco/flask-principal/commits?author=Abdur-RahmaanJ">pallets-eco/flask-principal</a></td>
+    <td></td>
+    <td><a href="https://github.com/LumoSQL/lumosql">LumoSQL/lumosql</a></td>
   </tr>
 </table>
 
